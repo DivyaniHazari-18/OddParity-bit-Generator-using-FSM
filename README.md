@@ -83,7 +83,7 @@ Odd_Parity_FSM/
 
 ## RTL Schematic 
 
-![RTL Schematic](<img "RTL Schematic Diagram" />)
+![RTL Schematic]
 
 
 ## 🛠️Tools & Technologies
