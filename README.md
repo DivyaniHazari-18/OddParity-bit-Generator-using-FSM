@@ -12,25 +12,25 @@ To verify functionality through simulation
 ##⚙️ Inputs and Outputs
 ###Inputs:
 
--clk : Clock signal
+clk : Clock signal
 
--rst : Active-high reset
+rst : Active-high reset
 
--data_in : Serial input data bit
+data_in : Serial input data bit
 
-###Output
+###Output:
 
--parity_out : Generated odd parity bit
+parity_out : Generated odd parity bit
 
 ##🔁 FSM Description
 
--The FSM tracks whether the number of received 1s is even or odd:
+The FSM tracks whether the number of received 1s is even or odd:
 
--State S0 → Even number of 1’s
+State S0 → Even number of 1’s
 
--State S1 → Odd number of 1’s
+State S1 → Odd number of 1’s
 
--State transitions occur on each clock edge based on data_in.
+State transitions occur on each clock edge based on data_in.
 
 ##📋 Truth Table
 ```
@@ -48,14 +48,15 @@ If final state is Even, parity bit = 1
 
 If final state is Odd, parity bit = 0
 
-🧩 File Structure
+##🧩 File Structure
+```
 Odd_Parity_FSM/
 │
 ├── odd_parity_fsm.v        # FSM-based Verilog design
 ├── odd_parity_fsm_tb.v     # Testbench
 ├── README.md               # Project documentation
-
-🧪 Simulation
+```
+##🧪 Simulation
 
 Tool Used: Xilinx Vivado
 
@@ -63,7 +64,7 @@ The testbench applies various serial input sequences.
 
 Waveforms verify correct FSM transitions and parity generation.
 
-▶️ How to Run the Project (Vivado)
+##▶️ How to Run the Project (Vivado)
 
 Open Xilinx Vivado
 
@@ -79,7 +80,7 @@ Run Behavioral Simulation
 
 Observe parity output in waveform window
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 Verilog HDL
 
@@ -87,7 +88,7 @@ FSM (Finite State Machine)
 
 Xilinx Vivado
 
-📚 Applications
+##📚 Applications
 
 Digital communication systems
 
@@ -95,7 +96,7 @@ Error detection mechanisms
 
 Data transmission protocols
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Divyani Hazari
 Final Year ECE Student
