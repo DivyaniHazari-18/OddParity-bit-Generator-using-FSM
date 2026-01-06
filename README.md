@@ -67,19 +67,19 @@ Odd_Parity_FSM/
 
 ## ▶️ How to Run the Project (Vivado)
 
-Open Xilinx Vivado
+1. Open Xilinx Vivado
 
-Create a New Project
+2. Create a New Project
 
-Add **odd_parity_fsm.v** as Design Source
+3. Add **odd_parity_fsm.v** as Design Source
 
-Add **odd_parity_fsm_tb.v** as Simulation Source
+4. Add **odd_parity_fsm_tb.v** as Simulation Source
 
-Set testbench as Top Module
+5. Set testbench as Top Module
 
-Run Behavioral Simulation
+6. Run Behavioral Simulation
 
-Observe parity output in waveform window
+7. Observe parity output in waveform window
 
 ## 🛠️ Tools & Technologies
 
