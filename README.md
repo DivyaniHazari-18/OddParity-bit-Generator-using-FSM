@@ -3,11 +3,11 @@ This project implements an Odd Parity Bit Generator using a Finite State Machine
 
 ## 🎯 Objective
 
-- 1.  To design an FSM-based odd parity generator
+- Step 1:  To design an FSM-based odd parity generator
 
-- 2.  To understand FSM concepts in Verilog
+- Step 2:  To understand FSM concepts in Verilog
 
-- 3.  To verify functionality through simulation
+- Step 3:  To verify functionality through simulation
 
 ## ⚙️Inputs and Outputs
 
