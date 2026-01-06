@@ -35,6 +35,13 @@ State transitions occur on each clock edge based on data_in.
 
 ## 📋Truth Table
 ```
+Current State	Input (data_in)	Next State
+Even (S0)	0	Even (S0)
+Even (S0)	1	Odd (S1)
+Odd (S1)	0	Odd (S1)
+Odd (S1)	1	Even (S0)
+
+```
 +---------+-----------+------------+
 | State   | data_in   | Next State |
 +---------+-----------+------------+
