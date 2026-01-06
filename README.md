@@ -21,7 +21,7 @@ This project implements an Odd Parity Bit Generator using a Finite State Machine
 
 ### Output:
 
-parity_out : Generated odd parity bit
+- `parity_out` : Generated odd parity bit
 
 ## 🔁FSM Description
 
