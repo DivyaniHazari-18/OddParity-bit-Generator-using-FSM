@@ -1,5 +1,5 @@
 # OddParity-bit-Generator-using-FSM
-This project implements an Odd Parity Bit Generator using a Finite State Machine (FSM). The FSM tracks incoming serial data bits and updates its state based on parity. At the end of transmission, it generates a parity bit to ensure the total number of 1s is odd for error detection.
+This project designs an Odd Parity Bit Generator using an FSM that monitors serial input data and tracks parity. After data transmission, it outputs a parity bit to ensure an odd number of 1s, enabling basic error detection.
 
 ## 🎯 Objective
 
