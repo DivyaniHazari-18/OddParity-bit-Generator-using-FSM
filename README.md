@@ -1,5 +1,5 @@
 # OddParity-bit-Generator-using-FSM
-This project designs an Odd Parity Bit Generator using an FSM that monitors serial input data and tracks parity. After data transmission, it outputs a parity bit to ensure an odd number of 1s, enabling basic error detection.
+This project implements an Odd Parity Bit Generator using a Finite State Machine (FSM). The FSM monitors incoming serial data bits and updates its state to track parity. When transmission ends, the circuit outputs a parity bit ensuring the total number of 1s is odd.
 
 ## 🎯 Objective
 
@@ -33,7 +33,7 @@ The FSM tracks whether the number of received 1s is even or odd:
 
 State transitions occur on each clock edge based on data_in.
 
-## 📋 Truth Table
+## 📋Truth Table
 ```
 +---------+-----------+------------+
 | State   | data_in   | Next State |
@@ -49,7 +49,7 @@ If final state is Even, parity bit = 1
 
 If final state is Odd, parity bit = 0
 
-## 🧩 File Structure
+## 🧩File Structure
 ```
 Odd_Parity_FSM/
 │
@@ -57,7 +57,7 @@ Odd_Parity_FSM/
 ├── odd_parity_fsm_tb.v     # Testbench
 ├── README.md               # Project documentation
 ```
-## 🧪 Simulation
+## 🧪Simulation
 
 - Tool Used: Xilinx Vivado
 
@@ -65,7 +65,7 @@ Odd_Parity_FSM/
 
 - Waveforms verify correct FSM transitions and parity generation.
 
-## ▶️ How to Run the Project (Vivado)
+## ▶️How to Run the Project (Vivado)
 
 1. Open Xilinx Vivado
 
@@ -81,7 +81,7 @@ Odd_Parity_FSM/
 
 7. Observe parity output in waveform window
 
-## 🛠️ Tools & Technologies
+## 🛠️Tools & Technologies
 
 - Verilog HDL
 
@@ -89,7 +89,7 @@ Odd_Parity_FSM/
 
 - Xilinx Vivado
 
-## 📚 Applications
+## 📚Applications
 
 1. Digital communication systems
 
