@@ -83,19 +83,19 @@ Odd_Parity_FSM/
 
 ## 🛠️ Tools & Technologies
 
-Verilog HDL
+- Verilog HDL
 
-FSM (Finite State Machine)
+- FSM (Finite State Machine)
 
-Xilinx Vivado
+- Xilinx Vivado
 
 ## 📚 Applications
 
-- 1. Digital communication systems
+1. Digital communication systems
 
-- 2. Error detection mechanisms
+2. Error detection mechanisms
 
-- 3. Data transmission protocols
+3. Data transmission protocols
 
 ## 👩‍💻 Author
 
