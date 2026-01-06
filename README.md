@@ -13,11 +13,11 @@ This project implements an Odd Parity Bit Generator using a Finite State Machine
 
 ### Inputs:
 
-clk : Clock signal
+- `clk` : Clock signal
 
-rst : Active-high reset
+- `rst` : Active-high reset
 
-data_in : Serial input data bit
+- `data_in` : Serial input data bit
 
 ### Output:
 
