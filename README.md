@@ -35,6 +35,9 @@ State transitions occur on each clock edge based on data_in.
 
 ## 📋Truth Table
 ```
+<img width="437" height="231" alt="image" src="https://github.com/user-attachments/assets/1247e234-f947-4948-a2e0-79477339f11d" />
+```
+
 +---------+-----------+------------+
 |→ State  → | data_in   → | Next State →|
 +---------+-----------+------------+
