@@ -113,4 +113,8 @@ Odd_Parity_FSM/
 
 3. Data transmission protocols
 
+## 📜License
+
+This project is open-source and available for educational and research purposes.
+
 
