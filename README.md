@@ -101,11 +101,12 @@ Odd_Parity_FSM/
 
 ## Simulation Output Waveforms
 
-<img width="1614" height="856" alt="Image" src="https://github.com/user-attachments/assets/a359413a-d1a2-49ed-827f-d5036212c9a9" />
+<img width="1628" height="890" alt="Image" src="https://github.com/user-attachments/assets/3235c010-15d0-4ac8-99dd-a9c1c36c1e73" />
 
-<img width="1636" height="860" alt="Simulation Output Diagram_2" src="https://github.com/user-attachments/assets/74fb10a0-66be-4484-9c81-234f9c9f817e" />
+<img width="1636" height="860" alt="Image" src="https://github.com/user-attachments/assets/e1d81d01-6f36-4dae-b543-3719158a18cd" />
 
-## 📚Applications
+## 📚![Uploading Simulation Output Diagram_2.png…]()
+Applications
 
 1. Digital communication systems
 
