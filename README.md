@@ -91,7 +91,7 @@ Odd_Parity_FSM/
 
 7. Observe parity output in waveform window
 
-## RTL Schematic 
+## RTL Schematic Diagram
 
 <img width="1614" height="856" alt="Image" src="https://github.com/user-attachments/assets/a359413a-d1a2-49ed-827f-d5036212c9a9" />
 
