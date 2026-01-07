@@ -1,6 +1,16 @@
 # OddParity-bit-Generator-using-FSM
 This project implements an Odd Parity Bit Generator using a Finite State Machine (FSM). The FSM monitors incoming serial data bits and updates its state to track parity. When transmission ends, the circuit outputs a parity bit ensuring the total number of 1s is odd.
 
+## ✨Features
+
+- Odd parity bit generation using a Finite State Machine (FSM).
+
+- Designed and implemented in Verilog HDL.
+
+- Processes serial input data efficiently.
+
+- Verified through simulation in Xilinx Vivado
+
 ## 🎯Objective
 
 - Step 1:  To design an FSM-based odd parity generator
@@ -85,13 +95,15 @@ Odd_Parity_FSM/
 
 <img width="1614" height="856" alt="Image" src="https://github.com/user-attachments/assets/a359413a-d1a2-49ed-827f-d5036212c9a9" />
 
-## 🛠️Tools & Technologies
-
-- Verilog HDL
-
-- FSM (Finite State Machine)
+## 🛠️Tool 
 
 - Xilinx Vivado
+
+## Simulation Output Waveforms
+
+<img width="1614" height="856" alt="Image" src="https://github.com/user-attachments/assets/a359413a-d1a2-49ed-827f-d5036212c9a9" />
+
+<img width="1636" height="860" alt="Simulation Output Diagram_2" src="https://github.com/user-attachments/assets/74fb10a0-66be-4484-9c81-234f9c9f817e" />
 
 ## 📚Applications
 
