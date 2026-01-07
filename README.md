@@ -105,8 +105,7 @@ Odd_Parity_FSM/
 
 <img width="1636" height="860" alt="Image" src="https://github.com/user-attachments/assets/e1d81d01-6f36-4dae-b543-3719158a18cd" />
 
-## 📚![Uploading Simulation Output Diagram_2.png…]()
-Applications
+## 📚Applications
 
 1. Digital communication systems
 
